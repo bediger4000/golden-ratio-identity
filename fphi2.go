@@ -24,6 +24,8 @@ func main() {
 	}
 }
 
+// machineEpsilon calculates the smallest number than can
+// make a detectable difference when added to another number.
 func machineEpsilon() float64 {
 	e := 1.0
 	for (1.0 + e) > 1.0 {
