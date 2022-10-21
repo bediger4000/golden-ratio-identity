@@ -4,6 +4,9 @@ I saw this strange looking identity:
 
 ![golden ratio formula](phi_formula.jpg)
 
+Regrettably, I can't remember where I found this image.
+If you know, can you please tell me?
+
 Here, &phi; is the [Golden Ratio](https://en.wikipedia.org/wiki/Golden_ratio),
 (1 + √5)/2 .
 
