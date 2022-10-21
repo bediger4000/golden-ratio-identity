@@ -1,4 +1,4 @@
-# Weird Formula for Golden Ratio
+# Weird Golden Ratio Identity
 
 I saw this strange looking identity:
 
